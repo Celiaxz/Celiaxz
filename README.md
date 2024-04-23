@@ -11,7 +11,7 @@
 [![Linkedin: cynthia-eze](https://img.shields.io/badge/-cynthiaeze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cynthia-eze/)](https://www.linkedin.com/in/cynthia-eze/)
 [![GitHub Celiaxz](https://img.shields.io/github/followers/Celiaxz?label=follow&style=social)](https://github.com/Celiaxz)
 
-### <!--  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > --> <span style="color:Pink"> ... A little more about me
+### <!--  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > --> <span style="color:Pink"> ... more about me
 
 </span>
 
