@@ -3,7 +3,9 @@
 
 <!-- <img align="right"  src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"  width="230"  > -->
 
-<img align="right"  src="https://media.giphy.com/media/ZGipFVRQMxU3SQywoY/giphy.gif"  width="230" >
+<!-- <img align="right"  src="https://media.giphy.com/media/ZGipFVRQMxU3SQywoY/giphy.gif"  width="230" > -->
+
+<img align="right"  src="/assets/onze4.jpg"  width="200" >
 <p><em>Self-taught Software Developer
 <br>Current Masters Student in CyberSecurity</br>
 </em></p>
