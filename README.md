@@ -18,8 +18,7 @@ const celia = {
   code: [Javascript, Typescript, HTML, CSS, Python, SQL],
   tools: [React, Redux, Node, Styled - Components, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
-  challenge:
-    "starting  #100DaysOfCode challenge from 22.04.2024 focused on react and typescript",
-  Hobbies: [Dancing, Reading],
+
+  Hobbies: [Dancing, Reading, playing asphalt],
 };
 ```
