@@ -15,10 +15,9 @@
 ```javascript
 const celia = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, SQL],
-  tools: [React, Redux, Node, Styled - Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Python, SQL, EJS],
+  tools: [React, Redux, Node, Express, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
-
-  Hobbies: [Dancing, Reading, playing asphalt],
+  Hobbies: [Dancing, Reading, Writing, Cooking, playing Asphalt, Board/Card Games],
 };
 ```
