@@ -1,6 +1,6 @@
 <h2 style="color:pink">  Hi, I'm Cynthia! </h2>
 
-<img align="right"  src="/assets/onze4.jpg"  width="200" style="border-radius: 50%;" >
+<img align="right"  src="/assets/download.jpg"  width="200"  >
 <p><em>Self-taught Software Developer
 <br>Current Masters Student in CyberSecurity</br>
 </em></p>
