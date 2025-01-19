@@ -5,8 +5,7 @@
 <br>Current Masters Student in CyberSecurity</br>
 </em></p>
 
-[![Linkedin: cynthia-eze](https://img.shields.io/badge/-cynthiaeze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cynthia-eze/)](https://www.linkedin.com/in/cynthia-eze/)
-[![GitHub Celiaxz](https://img.shields.io/github/followers/Celiaxz?label=follow&style=social)](https://github.com/Celiaxz)
+
 
 ### <span style="color:Pink"> ... more about me
 
